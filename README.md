@@ -36,3 +36,11 @@ Choosing a new hairstyle or hair color can be challenging. Hair Inspo lets you p
 - Explore trendy hairstyles and colors
 - Save time before salon visits
 - Easy-to-use experience
+
+## 📲 Play Store
+
+Download on the Play Store:
+https://play.google.com/store/apps/details?id=com.cmolds.inspohairapp
+
+<img width="746" height="284" alt="Screenshot 2026-09-16 145433" src="https://github.com/user-attachments/assets/538c2e03-b4d2-4659-96e2-263cdb802be0" />
+
